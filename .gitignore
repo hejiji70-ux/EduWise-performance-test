@@ -1,0 +1,19 @@
+# JMeter 运行结果（不入库）
+results/
+reports/
+*.jtl
+*.log
+
+# Python（生成器脚本的依赖）
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
